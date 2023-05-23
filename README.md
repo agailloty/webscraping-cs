@@ -62,7 +62,7 @@ The project does not require any additional configuration. However, you can modi
 
 This project utilizes the following dependencies:
 
-- HtmlAgilityPack (version X.X.X): A library for parsing and manipulating HTML documents. It is used for extracting job information from HTML files.
+- HtmlAgilityPack (version 1.11.46): A library for parsing and manipulating HTML documents. It is used for extracting job information from HTML files.
 
 ## License
 
@@ -74,4 +74,4 @@ Contributions to this project are welcome. Feel free to open issues or submit pu
 
 ## Contact
 
-For any questions or inquiries, please contact [your-name](mailto:agailloty@gmail.com).
+For any questions or inquiries, please contact [Axel-Cleris Gailloty](mailto:agailloty@gmail.com).
